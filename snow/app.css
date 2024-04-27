@@ -1,0 +1,17 @@
+body {
+    background-color: #112;
+    background-image: url(https://as2.ftcdn.net/v2/jpg/02/04/19/13/1000_F_204191310_1KK720mcgfvLPwpOmu4VtV7bRg1hze1q.jpg);
+   
+    background-repeat: no-repeat;
+    background-position: left -30px top -4px;
+}
+
+#scene {   
+    /* border: 1px dotted red; */
+    width: 950px;
+    height: 660px;
+    position: relative;
+}
+
+
+
