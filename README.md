@@ -7,11 +7,13 @@ This project creates a delightful snow effect using JavaScript. It brings fallin
 The Flake class is at the heart of this animation. It takes care of everything, from making each snowflake appear on the screen to letting it gracefully fall and eventually disappear. This animation can be a lovely addition to your website, adding a cozy and festive vibe.
 
 **Key Features**
+
 _Unique Snowflakes:_ Each snowflake has its size, speed, and starting point, making the snowfall look natural and varied.
 _Smooth Falling:_ The snowflakes gently drift from the top of the screen, mimicking real snow.
 _Natural Disappearance:_ When a snowflake reaches the bottom of the screen, it gracefully vanishes, making space for new snowflakes to fall.
 
 **The Flake Class**
+
 The Flake class is responsible for managing the lifecycle of a snowflake. Here is a breakdown of its methods:
 
 _Constructor:_ constructor(n, left, top, speed, size)
