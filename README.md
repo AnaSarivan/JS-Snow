@@ -37,7 +37,7 @@ Stops the snowflake's movement and hides it from view. The callback function cb 
 _Method:_ update()
 Updates the position of the snowflake on the screen based on its current properties.
 
-_Method: _render(root) 
+_Method:_ render(root) 
 Renders the snowflake as an HTML element within the specified root container. The snowflake is represented by a div element with a class of flake and styles applied for positioning and scaling.
 
 
