@@ -17,15 +17,15 @@ _Natural Disappearance:_ When a snowflake reaches the bottom of the screen, it g
 The Flake class is responsible for managing the lifecycle of a snowflake. Here is a breakdown of its methods:
 
 _Constructor:_ constructor(n, left, top, speed, size)
-Initializes a new snowflake instance with specific properties:
 
+Initializes a new snowflake instance with specific properties: 
 n: A unique identifier for the snowflake.
 left: The horizontal position where the snowflake starts.
 top: The vertical position where the snowflake starts.
 speed: The speed at which the snowflake falls.
 size: The size of the snowflake, affecting its scale.
 
-_Method:_ fall(cw, ch, cb)
+_Method:_ fall(cw, ch, cb) 
 Starts the falling motion of the snowflake. The parameters are:
 cw: The width of the container.
 ch: The height of the container (usually the height of the screen or viewport).
@@ -37,7 +37,7 @@ Stops the snowflake's movement and hides it from view. The callback function cb 
 _Method:_ update()
 Updates the position of the snowflake on the screen based on its current properties.
 
-_Method: _render(root)
+_Method: _render(root) 
 Renders the snowflake as an HTML element within the specified root container. The snowflake is represented by a div element with a class of flake and styles applied for positioning and scaling.
 
 
