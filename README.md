@@ -8,8 +8,8 @@ The Flake class is at the heart of this animation. It takes care of everything, 
 
 **Key Features**
 
-_Unique Snowflakes:_ Each snowflake has its size, speed, and starting point, making the snowfall look natural and varied.
-_Smooth Falling:_ The snowflakes gently drift from the top of the screen, mimicking real snow.
+_Unique Snowflakes:_ Each snowflake has its size, speed, and starting point, making the snowfall look natural and varied. 
+_Smooth Falling:_ The snowflakes gently drift from the top of the screen, mimicking real snow. 
 _Natural Disappearance:_ When a snowflake reaches the bottom of the screen, it gracefully vanishes, making space for new snowflakes to fall.
 
 **The Flake Class**
