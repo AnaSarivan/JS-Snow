@@ -1,6 +1,6 @@
 # Snow Animation Project - JS-Snow
 
-This project creates a delightful snow effect using JavaScript. It brings falling snowflakes to your web page, perfect for adding a winter or holiday spirit touch.
+This project creates a delightful snow effect using JavaScript. It brings falling snowflakes to the web page, perfect for adding a winter or holiday spirit touch.
 
 **What It Does**
 
