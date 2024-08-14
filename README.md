@@ -1,10 +1,10 @@
 # Snow Animation Project - JS-Snow
 
-This project creates a delightful snow effect using JavaScript. It brings falling snowflakes to the web page, perfect for adding a winter or holiday spirit touch.
+This project creates a charming snowfall effect using JavaScript, perfect for adding a touch of winter or holiday cheer to a web page.
 
 **What It Does**
 
-The Flake class is at the heart of this animation. It takes care of everything, from making each snowflake appear on the screen to letting it gracefully fall and eventually disappear. This animation can be a lovely addition to your website, adding a cozy and festive vibe.
+The heart of the animation is the Flake class, which handles everything from making each snowflake appear on the screen to letting it gently fall and eventually disappear. This animation adds a cozy, festive vibe to any website, making it feel more inviting and seasonal.
 
 **Key Features**
 
